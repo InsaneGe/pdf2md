@@ -31,10 +31,9 @@ PDF文件，通常有两种类型：基于文本的（如由文字处理软件�
 速度较慢，具体视pdf构成，预估需要7到12秒解析一页pdf
 
 # 可处理类型
-前提：无公式、矩阵的单列排版
-文档版pdf
-扫描版偏中文pdf（要偏中文是因为ppstructure对中文的识别效果更好）
-英文pdf识别推荐https://github.com/vikparuchuri/marker
+前提：无公式、矩阵的单列排版偏中文pdf（需要偏中文是因为ppstructure对中文的识别效果更好）
+
+英文扫描版pdf转换markdown推荐https://github.com/vikparuchuri/marker
 
 
 # 限制
